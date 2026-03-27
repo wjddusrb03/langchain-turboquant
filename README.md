@@ -8,6 +8,8 @@ Drop-in replacement for any LangChain vector store with **~6x memory reduction**
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests: 296 passed](https://img.shields.io/badge/tests-296%20passed-brightgreen.svg)](#testing)
 
+> [한국어 README](README.ko.md)
+
 ---
 
 ## Why langchain-turboquant?
